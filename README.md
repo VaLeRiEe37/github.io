@@ -1,6 +1,6 @@
 <h1>Hi, I'm Valerie! <br/><a href="https://www.linkedin.com/in/jiayu-yuan/">MS in Data Analytics at Carnegie Mellon University</a>
 
-<h2>👨‍💻 Data Analysis/Data Science </h2>
+<h2>👩🏻‍💻 Data Analysis/Data Science </h2>
 
 - <b>Database Building</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -9,19 +9,19 @@
 - <b>Time Series Forecasting</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>👨‍💻 Machine Learning/Deep Learning </h2>
+<h2>👩🏻‍💻 Machine Learning/Deep Learning </h2>
 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>👨‍💻 Natural Language Processing/Large Language Models </h2>
+<h2>👩🏻‍💻 Natural Language Processing/Large Language Models </h2>
 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>👨‍💻 Data Engineering </h2>
+<h2>👩🏻‍💻 Data Engineering </h2>
 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>👨‍💻 Software Development Engineering </h2>
+<h2>👩🏻‍💻 Software Development Engineering </h2>
 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
