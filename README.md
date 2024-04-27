@@ -13,7 +13,7 @@
 - <b>Database Building</b>
   - [Gig Economy Project](https://github.com/VaLeRiEe37/Gig-Economy-Project/blob/main/Database_InitialCreation) **(Python, AWS)**
 - <b>Time Series Forecasting</b>
-  - [Precision Forecasting for Culinary Demand and Supply Optimization](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Precision Forecasting for Culinary Demand and Supply Optimization](https://github.com/VaLeRiEe37/Precision-Forecasting-for-Culinary-Demand-and-Supply-Optimization)
 
 <h2>👩🏻‍💻 Machine Learning/Deep Learning </h2>
 
