@@ -2,10 +2,13 @@
 
 <h2>👨‍💻 Data Analysis/Data Science </h2>
 - <b>Database Building</b>
+
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Visualization</b>
+
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Time Series Forecasting</b>
+
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 Machine Learning/Deep Learning </h2>
