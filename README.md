@@ -17,14 +17,14 @@
 
 <h2>👩🏻‍💻 Machine Learning/Deep Learning </h2>
 
-  - [Cinephile AI: Dynamic Streaming and Recommendation System](https://github.com/joshmadakor1/Algorithms-Practice) **(Python)**
+  - [Cinephile AI: Dynamic Streaming and Recommendation System](https://github.com/VaLeRiEe37/Movie-Recommender-System/blob/main/README.md) **(Python)**
   - [Dog Breed Identification via Deep Learning]() **(Python)**
   - [Customer Segmentation Analysis and visualizations]() **(Python)**
 
 <h2>👩🏻‍💻 Natural Language Processing/Large Language Models </h2>
 
-  - [Synergizing Market Data and Social Sentiment for Predictive Analytics in Stock Trading](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [AI Policy Chat]() 
+  - [Synergizing Market Data and Social Sentiment for Predictive Analytics in Stock Trading](https://github.com/VaLeRiEe37/NLXLLM-portfolio/blob/main/individual_assignment/Report.pdf) **(Python)**
+  - [AI Policy Chat](https://github.com/VaLeRiEe37/AIPolicyChatbot/blob/main/num_epoches%2Bpriming.ipynb) **(Python)**
 
 <h2>👩🏻‍💻 Software Development Engineering </h2>
 
