@@ -29,7 +29,8 @@
 
 <h2>👩🏻‍💻 Software Development Engineering </h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - 🐶[PawConnect - Pet Adoption & Rehoming Portal](https://github.com/VaLeRiEe37/SDE/tree/main/PawConnect) **(Python, HTML, JavaScript, CSS)**
+  - 🐭[Whack-a-Mole](https://github.com/VaLeRiEe37/SDE/blob/main/Game.java) **(Java)**
 
 <h2> 🤳 Connect with me:</h2>
 
