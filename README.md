@@ -1,5 +1,11 @@
 <h1>Hi, I'm Valerie! <br/><a href="https://www.linkedin.com/in/jiayu-yuan/">MS in Data Analytics at Carnegie Mellon University</a>
 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jiayu-yuan/
+
 <h2>👩🏻‍💻 Data Analysis/Data Science </h2>
 
 - <b>Data Visualization</b>
@@ -18,8 +24,8 @@
 <h2>👩🏻‍💻 Machine Learning/Deep Learning </h2>
 
   - [Cinephile AI: Dynamic Streaming and Recommendation System](https://github.com/VaLeRiEe37/Movie-Recommender-System/blob/main/README.md) **(Python)**
-  - [Dog Breed Identification via Deep Learning]() **(Python)**
-  - [Customer Segmentation Analysis and visualizations]() **(Python)**
+  - [Dog Breed Identification via Deep Learning](https://github.com/VaLeRiEe37/Dog-Breed-Identification-via-Deep-Learning) **(Python)**
+  - [Customer Segmentation Analysis and visualizations](https://github.com/VaLeRiEe37/Customer-Segmentation-Analysis-and-visualizations/blob/main/customer-segmentation-hypothesis-testing-kmeans.ipynb) **(Python)**
 
 <h2>👩🏻‍💻 Natural Language Processing/Large Language Models </h2>
 
@@ -30,9 +36,3 @@
 
   - 🐶[PawConnect - Pet Adoption & Rehoming Portal](https://github.com/VaLeRiEe37/SDE/tree/main/PawConnect) **(Python, HTML, JavaScript, CSS)**
   - 🐭[Whack-a-Mole](https://github.com/VaLeRiEe37/SDE/blob/main/Game.java) **(Java)**
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/jiayu-yuan/
