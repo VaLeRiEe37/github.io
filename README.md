@@ -36,4 +36,6 @@
   - 🐶[PawConnect - Pet Adoption & Rehoming Portal](https://github.com/VaLeRiEe37/SDE/tree/main/PawConnect) **(Python, HTML, JavaScript, CSS)**
   - 🐭[Whack-a-Mole](https://github.com/VaLeRiEe37/SDE/blob/main/Game.java) **(Java)**
 
-**🔨 KEEP UPDATING...**
+<h2>👷🏻‍♀️ Portfolio Under Construction... </h2>
+
+Stay tuned — I'm actively working on enhancing this space. Check back shortly to explore more. Thank you for your interest and patience!
