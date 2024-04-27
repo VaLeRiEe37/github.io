@@ -6,6 +6,7 @@
 
 [linkedin]: https://www.linkedin.com/in/jiayu-yuan/
 
+
 <h2>👩🏻‍💻 Data Analysis/Data Science </h2>
 
 - <b>Data Visualization</b>
