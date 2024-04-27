@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Visualization</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Greenery vs. Safety: Analyzing Pittsburgh's Urban Landscape](https://preview.shorthand.com/Dd96hojCGLq1rWr6#group-section-Overview-0CBwLOfhK4)
+  - [Greenery vs. Safety: Analyzing Pittsburgh's Urban Landscape](https://preview.shorthand.com/Dd96hojCGLq1rWr6#group-section-Overview-0CBwLOfhK4) **(Tableau, ArcGIS Pro, Shorthand)**
     
     (note: if the hyperlink does not work, you may need to open it in a new tab.)
     
