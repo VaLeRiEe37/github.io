@@ -11,7 +11,7 @@
     
     This project examines the relationship between green spaces and crime in Pittsburgh, PA, using ArcGIS Pro, Tableau, and Canva to visualize and present. The final deliverable, presented in Shorthand, offers a visually engaging and data-driven exploration of urban greenery's impact on crime rates.
 - <b>Database Building</b>
-  - [Gig Economy Project](https://github.com/VaLeRiEe37/Gig-Economy-Project/blob/main/Database_InitialCreation)
+  - [Gig Economy Project](https://github.com/VaLeRiEe37/Gig-Economy-Project/blob/main/Database_InitialCreation) **(Python, AWS)**
 - <b>Time Series Forecasting</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
